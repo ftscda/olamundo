@@ -1,2 +1,5 @@
-# olamundo
- primeiro repositorio versionado
+# Olá, Mundo!
+
+ Primeiro Repositorio Versionado
+
+    REPOSITORIO ON
